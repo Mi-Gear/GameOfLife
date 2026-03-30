@@ -572,8 +572,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b43228e09b80e80468eb2015846295f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  size: 50
-  border: 5
+  size: 75
+  border: 0
   cell: {fileID: 4335110173291074621, guid: d1a1426b2843cdd44b59322e7a11e496, type: 3}
 --- !u!1 &1853202883
 GameObject:
@@ -609,10 +609,10 @@ RectTransform:
   - {fileID: 1996321261}
   m_Father: {fileID: 1457078970}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 706.45056, y: -722.2194}
-  m_SizeDelta: {x: 87.0965, y: 55.5649}
+  m_AnchorMin: {x: 0.8393093, y: 0}
+  m_AnchorMax: {x: 1, y: 0.05351871}
+  m_AnchoredPosition: {x: -0.000030517578, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1853202885
 MonoBehaviour:
@@ -765,7 +765,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u0421\u043E\u0441\u0430\u043B?"
+  m_text: "\u041F\u0430\u0443\u0437\u0430"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
